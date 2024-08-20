@@ -13,7 +13,7 @@ Utilizei o "Copilot" para revisar minha pesquisa sobre IAs e o Google Docs para 
 ## 🚀 Resultados
 O resultado foi a tentativa de criação do Ebook.
 
-link e-book
+[LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão (Opcional)
 A IA continua a evoluir rapidamente, trazendo consigo desafios e promessas. 
