@@ -4,7 +4,7 @@
 A IA continua a evoluir rapidamente, trazendo consigo desafios e promessas. Seu impacto na sociedade será cada vez mais profundo. 🌟🤖
 
 ## 🤖 Tecnologias Utilizadas
-Copilot
+Copilot (https://copilot.microsoft.com)
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
