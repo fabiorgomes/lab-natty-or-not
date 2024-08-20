@@ -1,10 +1,10 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Evolução e Futuro da Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A IA continua a evoluir rapidamente, trazendo consigo desafios e promessas. Seu impacto na sociedade será cada vez mais profundo. 🌟🤖
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
