@@ -5,9 +5,10 @@ A IA continua a evoluir rapidamente, trazendo consigo desafios e promessas. Seu 
 
 ## 🤖 Tecnologias Utilizadas
 Copilot **(https://copilot.microsoft.com)**
+Google Docs **(https://docs.google.com)**
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "Copilot" para revisar minha pesquisa sobre IAs
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
